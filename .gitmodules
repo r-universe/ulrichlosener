@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ulrichlosener/ulrichlosener.r-universe.dev
 	branch = HEAD
+[submodule "BayesSSD"]
+	path = BayesSSD
+	url = https://github.com/ulrichlosener/BayesSSD
